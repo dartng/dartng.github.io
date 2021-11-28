@@ -27,7 +27,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -74,16 +74,16 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: 
-permalink: /blog/:year/:title/
+# blog_name: blog  # your blog must have a name for it to show up in the nav bar
+# blog_description: 
+# permalink: /blog/:year/:title/
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
 # Comments
-disqus_shortname: Dat # put your disqus shortname
+# disqus_shortname: Dat # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
