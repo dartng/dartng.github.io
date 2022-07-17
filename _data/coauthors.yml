@@ -1,10 +1,10 @@
-# "Adams":
-#   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-#     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Ho":
+  - firstname: ["John", "John S."]
+    url: https://scholar.google.com.sg/citations?user=Uw83cL4AAAAJ&hl=en
 
-# "Podolsky":
-#   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-#     url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Lim":
+  - firstname: ["Chwee Teck", "C. T."]
+    url: https://scholar.google.com.sg/citations?user=sUh03wgAAAAJ&hl=en
 
 # "Rosen":
 #   - firstname: ["Nathan", "N."]
