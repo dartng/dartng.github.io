@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.ece.nus.edu.sg/stfpage/hsyj/">Wireless Bioelectronics Group - National University of Singapore</a>.
+description: Wireless Bioelectronics Group - National University of Singapore (NUS)
 
 profile:
   align: right
@@ -13,8 +13,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Dat (pronounced: Dart), a 3rd year PhD candidate in the [Integrative Sciences and Engineering Program, NUS Graduate School](https://isep.nus.edu.sg) under [Asst. Prof. John Ho](https://scholar.google.com.sg/citations?user=Uw83cL4AAAAJ&hl=en) and the [Wireless Bioelectronics Group](https://www.ece.nus.edu.sg/stfpage/hsyj/index.html). I am also affiliated with the [N.1 Institue for Health](https://n1labs.org/) and the [Institute for Health Innovation and Technology (iHealthTech)](https://ihealthtech.nus.edu.sg/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests lie broadly in novel wireless sensing technologies and their applications in health monitoring and biomedicine. My recent work focuses on non-contact health monitoring using software-defined RADARs and microwave metamaterials, combined with digital signal processing and machine learning techniques.
