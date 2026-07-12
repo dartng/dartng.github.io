@@ -6,4 +6,3 @@ img: assets/img/wes.png
 importance: 2
 category: work
 ---
-
