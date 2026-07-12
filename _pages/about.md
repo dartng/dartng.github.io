@@ -6,9 +6,15 @@ description:
 profile:
   align: right
   image: profile_pic.jpg
-news: true  # includes a list of news items
+  image_circular: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: false
 ---
 
 I am a Research Scientist at [Meta Reality Labs](https://about.meta.com/realitylabs/). My current research lies at the intersection of novel wireless technologies, signal processing, and machine learning for human-centric sensing applications.
